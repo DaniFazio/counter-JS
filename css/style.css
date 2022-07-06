@@ -20,7 +20,7 @@ html{
     justify-content: center;
 
     background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),
-    url(/assets/img/connect.jpg);
+    url(../assets/img/connect.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
